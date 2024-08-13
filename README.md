@@ -15,8 +15,8 @@ VSPdfSigned es una aplicación web que permite a los usuarios cargar un archivo 
 
 ## Archivos del proyecto
 
-- `VSPdfSigned.html`: Contiene la estructura HTML y la lógica JavaScript principal
-- `app.js`: Archivo JavaScript separado para funcionalidades adicionales (si es necesario)
+- `VSPdfSigned.html`: Contiene la estructura HTML 
+- `app.js`: Archivo JavaScript separado para la lógica JavaScript principal
 - `style.css`: Estilos CSS personalizados
 
 ## Librerías utilizadas
